@@ -55,10 +55,9 @@ h1 {
 
 .footer {
     background-color: var(--primary-color);
-    padding: 2rem 1rem;
+    padding: 1rem 1rem;
     text-align: center;
     border-top-right-radius: 1rem;
-    height: 10vh;
 }
 
 .footer .footer-header {
